@@ -1,9 +1,9 @@
 Hi there!! . <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="48">
 
 My name is Hilary Emujede but you can call me Hills <img src="https://user-images.githubusercontent.com/104493382/222506191-2c3b6712-3e6e-4fe0-8bd1-386d49fded3f.png" width="50">
-- 🔭 I'm a Fullstack Developer
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking to collaborate on Frontend and fullstack projects and also Graphic Design projects
+- 🔭 I'm a Frontend Developer
+- 🌱 I’m currently learning React Native
+- 👯 I’m looking to collaborate on Frontend projects.
 - 💬 Ask me about anything
 
 
